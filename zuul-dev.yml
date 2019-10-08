@@ -12,9 +12,9 @@ eureka:
 
 zuul:
   routes:
-    item©\service: /item©\service/**
-    user©\service: /user©\service/**
-    order©\service: /order©\service/**
+    itemï¿½\service: /itemï¿½\service/**
+    userï¿½\service: /userï¿½\service/**
+    orderï¿½\service: /orderï¿½\service/**
   retryable: true
   sensitive-headers:
 
@@ -36,4 +36,9 @@ management:
     web:
       exposure:
         include: hystrix.stream
+
+
+
+
+
 
