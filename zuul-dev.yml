@@ -38,7 +38,3 @@ management:
         include: hystrix.stream
 
 
-
-
-
-

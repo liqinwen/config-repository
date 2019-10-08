@@ -34,8 +34,3 @@ server:
 spring:
   profiles: order2
 
-
-
-
-
-

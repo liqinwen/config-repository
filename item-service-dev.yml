@@ -20,8 +20,3 @@ spring:
   profiles: item2
 server:
   port: 8002
-
-
-
-
-
